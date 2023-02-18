@@ -18,7 +18,7 @@ int max_Array(int array[], int space)
 
 int main()
 {
-    int size, count, result, index; 
+    int size, count, result, index; //this is a comment.
     cout<<"\nEnter the size:\n";
     cin>>size; 
 
