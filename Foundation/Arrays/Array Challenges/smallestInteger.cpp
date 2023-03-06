@@ -1,3 +1,5 @@
+//Find the smallest positive integer from the given array which is missing. 
+
 #include<iostream>
 using namespace std; 
 
